@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "level": "^7.0.0",
+    "level-sublevel": "^6.6.5"
+  }
+}
